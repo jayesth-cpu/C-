@@ -9,4 +9,4 @@ Compiling a C++ program:
   => g++ <file name with extension>
   => ./a.out
   
-Above are the 2 ways to execute your c++ program in terminal.
+Above are the 2 ways to execute your c++ program in terminal .
